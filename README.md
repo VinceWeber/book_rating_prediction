@@ -25,12 +25,15 @@ Welcome to the analysis of the Goodreads-books dataset. In this project, we delv
 
 2. Navigate to the project directory:
    ```bash
-    cd book-rating-prediction
-3. Install the required dependencies using:
+    cd book_rating_prediction
+3. Create the anaconda environment using:
     ```bash
     conda create -n name_env_project --file ENV.txt
-    conda activate name_env_project
     ```
+4. Activate the environment:
+   ```bash
+   conda activate name_env_project
+   ```
     Replace 'name_env_project' by a custom environnement name.
 
 ## [Motivation](#motivation)
